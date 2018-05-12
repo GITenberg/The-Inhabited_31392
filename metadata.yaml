@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34343
     wikipedia: http://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31392#The-Inhabited
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
